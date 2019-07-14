@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALCApp</string>
+    <string name="btn_alc">About ALC</string>
+    <string name="btn_profile">Profile</string>
+    <string name="tv_Name">Name:</string>
+    <string name="tv_Track">Track:</string>
+    <string name="tv_Country">Country:</string>
+    <string name="tv_Email">Email:</string>
+    <string name="tv_PhoneNo">Phone_Number:</string>
+    <string name="alc_Name">Allan Gisoni</string>
+    <string name="alc_Track">Android</string>
+    <string name="alc_Country">Kenya</string>
+    <string name="alc_Email">Allangisoni@gmail.com</string>
+    <string name="alc_PhoneNo">+254724821898</string>
+
+
+
+</resources>
